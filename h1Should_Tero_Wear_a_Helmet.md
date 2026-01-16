@@ -34,10 +34,10 @@ There are many simple practices the average person and companies should follow. 
 ## Imaginary company  - ReadyFresh
   ReadyFresh is an imaginary food delivery subscription service. Meals are cooked at the ReadyFresh kitchen, and delivered to clients.
 The business team's main goals are:
-  -Customer satisfaction
-  -Smooth orders and deliveries
-  -Protecting personal and payment data
-  -Keeping operations running
+  - Customer satisfaction
+  - Smooth orders and deliveries
+  - Protecting personal and payment data
+  - Keeping operations running
 The technical team is responsible for explaining and deploying the systems.
 
 # Threat modeling
