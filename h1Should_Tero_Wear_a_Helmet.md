@@ -30,10 +30,10 @@ The technical team is responsible for explaining and deploying the systems.
 3. Infrastructure (cloud servers, internal admin portal)
 4. Reputation
 
-####Customer is king
+###Customer is king
 To keep the business going we need to allow customers to browse meal kits, order and pay, track deliveries and receive support.
 
-####Customer touchpoints
+###Customer touchpoints
 The customer interacts with the website/mobile app (wbrowsing and ordering meals), email notifications (looking for updates or order confirmation), notifictions from the delivery driver tracking delivery) and customer service chat.
 
 
