@@ -20,7 +20,7 @@ OWASP Threat Modeling Cheat Sheet (2021)
 The OWASP cheat sheet is a more practical checlist on how to do threat modeling. Main points are defining scope, identifying assets and threats, deciding security controls, and prioritizing what to fix.
 
 
-A) 
+## A) 
 There are many simple practices the average person and companies should follow. Some of the most important ones are listed below:
 - Using strong and unique passwords
 - Enabling multi-factor authentication
@@ -30,7 +30,7 @@ There are many simple practices the average person and companies should follow. 
 - Securing Wi-fi network
 - Use Antivirus and Anti-Malware Software:
 
-B)
+## B)
 ## Imaginary company  - ReadyFresh
   ReadyFresh is an imaginary food delivery subscription service. Meals are cooked at the ReadyFresh kitchen, and delivered to clients.
 The business team's main goals are:
