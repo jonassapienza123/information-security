@@ -1,4 +1,24 @@
-# Should Tero wear a helmet
+# Should Tero wear a Helmet
+
+x)
+Threat modeling is a structured way of thinking about security. The idea is to understand what we are building, what can happen to it, and how we can prevent the problems. Instead of guessing or reacting, it helps to identify risks early and prevent them.
+
+## Braiterman et al. — Threat Modeling Manifesto (2020)
+The manifesto explains why threat modeling should be used, and who should use it. It touches on important values such as people and collaboration. 
+According to the manifesto at the highest levels, when threat modeling, these four questions should be asked:
+What are we working on?
+What can go wrong?
+What are we going to do about it?
+Did we do a good enough job?
+
+Adam Shostack — World’s Shortest Threat Modeling Course (2022)
+
+This material mwntions the same four questions as listed above, which shows the importance of them. He also introduces the use of data flow diagrams, to visualize how data moves through systems, and where it ight be exposed to attacks. One of his main points is that threat modeling does not need to be heavy and complicated. Lightweight can still be valuable.
+
+OWASP Threat Modeling Cheat Sheet (2021)
+
+The OWASP cheat sheet is a more practical checlist on how to do threat modeling. Main points are defining scope, identifying assets and threats, deciding security controls, and prioritizing what to fix.
+
 
 A) 
 There are many simple practices the average person and companies should follow. Some of the most important ones are listed below:
