@@ -116,9 +116,9 @@ To check if our protections actually work we should do the following: security a
 
 
 ## References
-Cyber Hygiene
-https://www.enisa.europa.eu/topics/cyber-hygiene
-Threat Modeling Process
-https://owasp.org/www-community/Threat_Modeling_Process#stride
-APractical Guide to RIsk Response
-https://www.metricstream.com/learn/risk-response.html?utm_source=chatgpt.com
+Cyber Hygiene  
+https://www.enisa.europa.eu/topics/cyber-hygiene  
+Threat Modeling Process  
+https://owasp.org/www-community/Threat_Modeling_Process#stride  
+APractical Guide to RIsk Response  
+https://www.metricstream.com/learn/risk-response.html?utm_source=chatgpt.com  
