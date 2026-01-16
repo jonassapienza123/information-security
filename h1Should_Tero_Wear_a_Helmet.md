@@ -1,6 +1,7 @@
 # Should Tero wear a helmet
 
-A) There are many simple practices the average person and companies should follow. Some of the most important ones are listed below:
+A) 
+There are many simple practices the average person and companies should follow. Some of the most important ones are listed below:
 - Using strong and unique passwords
 - Enabling multi-factor authentication
 - Reqular software updates
