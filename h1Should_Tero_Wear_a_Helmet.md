@@ -1,4 +1,4 @@
-# Should Tero wear a Helmet
+# Should Tero wear a Helmet?
 
 x)
 Threat modeling is a structured way of thinking about security. The idea is to understand what we are building, what can happen to it, and how we can prevent the problems. Instead of guessing or reacting, it helps to identify risks early and prevent them.
