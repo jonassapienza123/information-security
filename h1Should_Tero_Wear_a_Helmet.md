@@ -45,10 +45,10 @@ The technical team is responsible for explaining and deploying the systems.
 ## 1. What are we working on?
 
 Our assets assets from most crtitical to leas
-1. Customer data (names, adresses, emails, allergies, payment info
-2. Operstional assets (order database, delivery route system, payment processing system, supplier contracts)
-3. Infrastructure (cloud servers, internal admin portal)
-4. Reputation
+1. Customer data (names, adresses, emails, allergies, payment info  
+2. Operstional assets (order database, delivery route system, payment processing system, supplier contracts)  
+3. Infrastructure (cloud servers, internal admin portal)  
+4. Reputation  
 
 ### Customer is king
 To keep the business going we need to allow customers to browse meal kits, order and pay, track deliveries and receive support.
