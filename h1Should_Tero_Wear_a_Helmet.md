@@ -30,10 +30,10 @@ The technical team is responsible for explaining and deploying the systems.
 3. Infrastructure (cloud servers, internal admin portal)
 4. Reputation
 
-###Customer is king
+### Customer is king
 To keep the business going we need to allow customers to browse meal kits, order and pay, track deliveries and receive support.
 
-###Customer touchpoints
+### Customer touchpoints
 The customer interacts with the website/mobile app (wbrowsing and ordering meals), email notifications (looking for updates or order confirmation), notifictions from the delivery driver tracking delivery) and customer service chat.
 
 
@@ -49,7 +49,7 @@ Denial of service: Payment systems is taken down, which leads to no orders being
 Elevation of privilege: attacker gains admin dshboard access.
 Repudiation: disputes about fraudulent orders.  
 
-####Risk Prioritization
+#### Risk Prioritization
 
 Looking at likelihood*impact, some of the risks are below. The higher on the list, the bigger the impact.
 
