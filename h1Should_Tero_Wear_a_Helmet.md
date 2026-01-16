@@ -1,4 +1,4 @@
-h1#Should Tero wear a helmet
+# Should Tero wear a helmet
 
 A) There are many simple practices the average person and companies should follow. Some of the most important ones are listed below:
 - Using strong and unique passwords
@@ -19,7 +19,7 @@ The business team's main goals are:
   -Keeping operations running
 The technical team is responsible for explaining and deploying the systems.
 
-## Threat modeling
+# Threat modeling
   
 ## 1. What are we working on?
 
