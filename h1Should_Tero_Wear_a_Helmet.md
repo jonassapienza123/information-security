@@ -3,7 +3,7 @@
 x)
 Threat modeling is a structured way of thinking about security. The idea is to understand what we are building, what can happen to it, and how we can prevent the problems. Instead of guessing or reacting, it helps to identify risks early and prevent them.
 
-## Braiterman et al. — Threat Modeling Manifesto (2020)
+Braiterman et al. — Threat Modeling Manifesto (2020)
 The manifesto explains why threat modeling should be used, and who should use it. It touches on important values such as people and collaboration. 
 According to the manifesto at the highest levels, when threat modeling, these four questions should be asked:
 What are we working on?
