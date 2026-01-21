@@ -13,11 +13,14 @@ Did we do a good enough job?
 
 Adam Shostack — World’s Shortest Threat Modeling Course (2022)
 
-This material mwntions the same four questions as listed above, which shows the importance of them. He also introduces the use of data flow diagrams, to visualize how data moves through systems, and where it ight be exposed to attacks. One of his main points is that threat modeling does not need to be heavy and complicated. Lightweight can still be valuable.
+This material mentions the same four questions as listed above, which shows the importance of them. He also introduces the use of data flow diagrams, to visualize how data moves through systems, and where it ight be exposed to attacks. One of his main points is that threat modeling does not need to be heavy and complicated. Lightweight can still be valuable.
 
 OWASP Threat Modeling Cheat Sheet (2021)
 
 The OWASP cheat sheet is a more practical checlist on how to do threat modeling. Main points are defining scope, identifying assets and threats, deciding security controls, and prioritizing what to fix.
+
+Darknet diaries Podcacst.  
+I listened to episode 99:The Spy. The Podcast host comes in contact with Igor, an ukrainian immigrant living in the U.S. In short, he works for an insurance company and his job is to surveil people that have insurance claims. He also found out that he was working as a contractor for Black Cube, an Israeli Itelligence company. He was supposed to spy on Ronan Farrow, and Black  Cube wanted to dig up dirt on Ronan Farrow to discredit him, because he was investigating Harvey Weinstein.   This is where Cybersecurity comes in. The method to find his location was sending him annoying spam messages. He was given two options: to receive more spam, or to stop recieving them by replying or clicking a link. That's how they found out his geolocation.
 
 
 ## A) 
