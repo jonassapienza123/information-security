@@ -39,7 +39,12 @@ First, I performed a port scan on localhost without installing a new daemon to s
 I then installed a daemon by enabling the network and running sudo apt update and sudo apt install openssh-server. After installation, I disabled the network again and repeated the scan with sudo nmap localhost. This time the scan showed a new open port: 22/tcp (ssh).  
 Conclusion: Fewer ports were open before installing daemon. After installing OpenSSH, port 22 appeared because the SSH service was running and listening for connections. This shows that port scanning can reveal which server applications are active on a system.  
 ## d)  
-I did not manage doing this task
+I did not manage to do this task.  
+
+## References  
+Karvinen 2021: Install Debian on Virtualbox - Updated 2024
+Karvinen 2020: Command Line Basics Revisited
+
 
 
 
