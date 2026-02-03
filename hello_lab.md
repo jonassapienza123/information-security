@@ -42,7 +42,7 @@ Conclusion: Fewer ports were open before installing daemon. After installing Ope
 I did not manage to do this task.  
 
 ## References  
-Karvinen 2021: Install Debian on Virtualbox - Updated 2024
+Karvinen 2021: Install Debian on Virtualbox - Updated 2024  
 Karvinen 2020: Command Line Basics Revisited
 
 
