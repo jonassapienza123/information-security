@@ -1,6 +1,6 @@
-#Johnny Tables  
+# Johnny Tables  
 
-###x)  
+### x)  
 Top 10 (2021)  
 A01:2021 – Broken Access Control  
 - Happens when users can act outside their intended permissions.  
@@ -21,5 +21,7 @@ A03:2021 – Injection
 - Occurs when untrusted input is interpreted as commands, for example SQL, OS, LDAP.  
 - Classic example: SQL injection that lets attackers read or modify databases.  
 xkcd 327 — Exploits of a Mom  
-To my understanding the name of the child looks like or is a malicious sql injection. Calling it will  leak a database. The idea is to show that not sanitizing commands can lead to catastrophic results.  
+To my understanding the name of the child looks like or is a malicious sql injection. Calling it will  leak a database. The idea is to show that not sanitizing commands can lead to catastrophic results.
+
+
 
