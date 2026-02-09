@@ -30,9 +30,9 @@ It demonstrated how web applications communicate and showed the importance of no
 <img width="636" height="408" alt="2026-02-08 (18)" src="https://github.com/user-attachments/assets/ffd4522e-6a08-4355-990d-f1fab35dd5a4" />  
 ### c)  
 I updated the operating system and applications to make sure the latest security patches were installed, using these commmands:  
-sudo apt update
-sudo apt upgrade -y
-sudo apt autoremove -y  
+sudo apt update  
+sudo apt upgrade -y  
+sudo apt autoremove -y   
 ### d)  
 I learned how to retrieve data from a database using the SELECT statement and filter results with the WHERE clause. This helped me understand how databases are queried and how structured data can be accessed efficiently. It ws interesting and helpful, especially since I do not have much experience with SQL.  
 <img width="730" height="417" alt="2026-02-09 (1)" src="https://github.com/user-attachments/assets/d82bc74f-53db-4171-8643-7d9906ce863f" />  
@@ -42,11 +42,14 @@ I modified the category parameter in the URL, by injecting a condition that is a
 <img width="875" height="433" alt="2026-02-09 (2)" src="https://github.com/user-attachments/assets/49bdfaa6-f79f-417e-b7b0-2e7a6ec043b3" />  
 
 ## References  
+Tee
 OWASP Foundation. (2021). OWASP Top Ten. https://owasp.org/www-project-top-ten/  
 WebGoat. OWASP Foundation. https://owasp.org/www-project-webgoat/  
 PortSwigger. SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.   https://portswigger.net/web-security/sql-injection  
 SQLZoo. SQL Tutorial. https://sqlzoo.net/wiki/SQL_Tutorial  
 Munroe, R. (2007). Exploits of a Mom (xkcd 327). https://xkcd.com/327/  
+Karvinen, T. Information Security. https://terokarvinen.com/information-security  
+
 
 
 
