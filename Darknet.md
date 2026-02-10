@@ -1,6 +1,6 @@
 # Darknet lisätehtävä  
 
-Minulla ei ole aikaisempaa kokemusta darknetin käytöst, mutta se on kiinnostanut minua, joten tämä on hyvä lisätehtävä.  
+Minulla ei ole aikaisempaa kokemusta darknetin käytöstä, mutta se on kiinnostanut minua, joten tämä on hyvä lisätehtävä.  
 Tarkoituksena on kokeilla kolme eri Darknet:iä. Ensimmäisenä I2P.  
 
 ## I2P  
