@@ -5,7 +5,7 @@ Tarkoituksena on kokeilla kolme eri Darknet:iä. Ensimmäisenä I2P.
 
 ## I2P  
 Testasin I2P:tä Debianissa asentamalla sen I2P sivulta. Asennus oli haastava, koska yritin ensiksi repositoryn kautta, mutta se ei onnistunut. Debian jota käytän ei ollut yhteensopiva I2P paketin kanssa. Kotin asentaa pakettia, mutta sain virheilmoituksia  
-allekirjoitusavaimesta. Päädyin lataamaan I2P sivuilta Java-pohjaisen ohjelman. Käytin terminaalia käynnistääkseni installerin, ja sain ohjelman asennettua. Itse asennushetkellä unohdin ottaa kuvakaappauksen, mutta alla näkyy lataustiedestoa Download kansiossani, 
+allekirjoitusavaimesta. Päädyin lataamaan I2P sivuilta Java-pohjaisen ohjelman. Käytin terminaalia käynnistääkseni installerin, ja sain ohjelman asennettua. Itse asennushetkellä unohdin ottaa kuvakaappauksen, mutta alla näkyy lataustiedesto Download kansiossani, 
 ja samalla myös kuinka käynnistän I2p:n.  
 
 <img width="1920" height="921" alt="Screenshot From 2026-02-10 09-29-59" src="https://github.com/user-attachments/assets/1b7379d3-3191-4746-a937-c7fb258e765f" />  
