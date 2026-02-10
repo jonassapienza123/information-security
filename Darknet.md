@@ -28,7 +28,7 @@ https://geti2p.net/en/docs/how/intro
 Latasin Freenetin virallisilta sivuilta Java-pohjaisen asennustiedoston. Käynnistin sen terminaalissa komennolla java -jar. Asennus avasi Freenetin paikallisen käyttöliittymän selaimeen, ja pääsin aloittamaan verkon käytön. Alla kuvakaappaus komennoista.  
 <img width="1920" height="885" alt="Screenshot From 2026-02-10 13-55-39" src="https://github.com/user-attachments/assets/6824b840-75a9-4fb2-ab23-1ffcbdeeb753" />  
 Aluksi verkkoon yhdistämminen vei hetken, sillä node etsi muita vertaiskoneita. Muodostettuani yhteyden, avasin “Freenet First Steps” sivun ja  Clean-Spider-hakemiston. Omiin silmiini varinkin jälkemmäinen tuntuu sekavalta enkä kauheasti ymmärrä siitä mitään, mutta oli silti kiinnostavaa päästä sinne.  
-Itse verkkoon pääseminen vei vain noin 5min, mikä oli erittäin nopeaa  verrattuna I2P, jonne odotin ainakin 20min. Muutenkin koko prosessi oli kivuttomampi, joka johtuu varmaan siitä että tajusin lataamaan heti Java-pohjaisen asennnustiedoston.  
+Itse verkkoon pääseminen vei vain noin 5min, mikä oli erittäin nopeaa  verrattuna I2P:ään, jonne odotin ainakin 20min. Muutenkin koko prosessi oli kivuttomampi, joka johtuu varmaan siitä että tajusin lataamaan heti Java-pohjaisen asennnustiedoston.  
 
 <img width="1920" height="921" alt="Screenshot From 2026-02-10 13-59-09" src="https://github.com/user-attachments/assets/02615619-b136-4f2d-b95a-405308da9b6c" />  
 <img width="1920" height="921" alt="Screenshot From 2026-02-10 14-06-41" src="https://github.com/user-attachments/assets/0ce2a549-e091-4776-a0d4-157b4a952d6a" />  
@@ -63,8 +63,14 @@ ZeroNetissä sivut ladataan muilta käyttäjiltä eikä keskuspalvelinta ole. K�
 
 ### Vertailu
 I2P keskittyy vahvaan anonymiteettiin, sillä liikenne kulkee useiden solmujen läpi, salatuissa yhteyksissä.  Se tekee käyttäjän jäljittämisestä vaikeaa. Samalla verkko on sen takia myös aika hidas ja vaikea käyttää.  
+
+  
 Freenetin isoimpana ideana on sensuurin kiertäminen ja anyymi tiedon jakaminen. Data talletuu hajautetusti muiden käyttäjien koneille, eikä keskuspalvelinta ole. Käsittääkseni se tarjoaa  hyvän anonyymiteetin, mutta vaikutti aika hitaalta ja vanhanaikaiselta.  
+
+  
 ZeroNet toimii myös vertaisverkossa, mutta keskittyy enemmän hajautettuun web-hostingiin, eikä täydelliseen immuuniteettiin. Sivut latautuvat muilta käyttäjiltä BitTorrent-tyyppisesti. Se oli nopeampi kuin I2P ja Freenet, ja käyttöliittymä vaikutti käyttäjäystävällisemmältä.  
+
+  
 Yhteenvetona vaikutukseni kolmesta testatusta darknetistä:
 I2P: Vaikutti turvallisimmalta anonymiteetin näkökulmasta.  
 Freenet: Vaikutti vahvimmalta sensuurin vastustamisessa.   
