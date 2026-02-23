@@ -57,7 +57,10 @@ in english language. So I started with replacing all the corresponding letters w
 I then figured out that the website was terokarvinen.com. Figuring this out helped me change some corresponding letters in the encrypted message again, and I started looking at the shortest words, because they are the easiest to figure out, for example: see, at, can, be etc. I was then able to replca some letters again and some words started to form, where I was able to guess the remaining letter of that word.  
 ![CIPHER1](https://github.com/user-attachments/assets/c816569b-ea6d-445d-8238-f7edcb91e6eb)  
 ![CIPHER3](https://github.com/user-attachments/assets/cefb0388-4962-40ea-bb76-e4a85b59dd9e)  
-Unfortunately this was the furthest I got, and I was not able to crack the whole code after trying for a long time.
+Unfortunately this was the furthest I got, and I was not able to crack the whole code after trying for a long time.  
+
+### e)
+I have returned the presentation material.
 
 
 
