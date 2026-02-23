@@ -1,4 +1,4 @@
-[Darknet 1.pdf](https://github.com/user-attachments/files/25500548/Darknet.1.pdf)# Uryyb, Greb!  
+# Uryyb, Greb!  
 
 ### x) € Schneier 2015 — Applied Cryptography: Chapter 1: Foundations  
 - Cryptography is about keeping information safe: making sure only the right people can read it and that it hasn’t been changed.
@@ -53,7 +53,7 @@ Force guessing, because generated passwords are long and hard to guess.
 ### s) ETAION  
 At first look it looked very confusing, but then I saw a ffew things I was able to start with. DHHP:// most likely stands for HTTPS:// , and .OWG for .COM. I laso saw 'YI, and I could only think of 're as the replacement  
 in english language. So I started with replacing all the corresponding letters with the one I figured out.  
-![CIPHER1](https://github.com/user-attachments/assets/bf2e3627-02b0-4ece-89b5-8bc7a906099b)  
+![cipher](https://github.com/user-attachments/assets/c0de4a73-814f-4b37-8fd0-56067a3cc63c)  
 I then figured out that the website was terokarvinen.com. Figuring this out helped me change some corresponding letters in the encrypted message again, and I started looking at the shortest words, because they are the easiest to figure out, for example: see, at, can, be etc. I was then able to replca some letters again and some words started to form, where I was able to guess the remaining letter of that word.  
 ![CIPHER1](https://github.com/user-attachments/assets/c816569b-ea6d-445d-8238-f7edcb91e6eb)  
 ![CIPHER3](https://github.com/user-attachments/assets/cefb0388-4962-40ea-bb76-e4a85b59dd9e)  
