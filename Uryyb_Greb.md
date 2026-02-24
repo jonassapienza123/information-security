@@ -60,7 +60,13 @@ I then figured out that the website was terokarvinen.com. Figuring this out help
 Unfortunately this was the furthest I got, and I was not able to crack the whole code after trying for a long time.  
 
 ### e)
-I have returned the presentation material.
+I have returned the presentation material.  
+
+## References  
+Karvinen 2023: PGP - Send Encrypted and Signed Message - gpg  
+€ Schneier 2015: Applied Cryptography: Chapter 1: Foundations  
+https://en.wikipedia.org/wiki/Frequency_analysis  
+
 
 
 
