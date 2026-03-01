@@ -16,11 +16,15 @@ Used as a “fingerprint” of data.
 Easy to compute hash, hard to reverse it.    
 Hard to find two different inputs with the same hash (collision).  
 
+## a)
+
 ## b)  
 First I updated packages.  
 <img width="732" height="333" alt="Screenshot From 2026-03-01 14-21-14" src="https://github.com/user-attachments/assets/8f5d96ca-4107-450f-86c2-9a2e655b94fb" />   
 I then installed hashcat.   
 <img width="732" height="142" alt="Screenshot From 2026-03-01 14-28-01" src="https://github.com/user-attachments/assets/2bbb889c-abbc-44d7-9427-bbcb7c46b8ef" />  
+I got the dictionary.  
+<img width="729" height="61" alt="Screenshot From 2026-03-01 15-11-02" src="https://github.com/user-attachments/assets/df5a50c9-c02b-4073-aeb7-f28557affa7d" />  
 I used the command given by the teahce, and added the hash which we are cracking. Also saved the solution as plain text to a new file called "solved".    
 <img width="730" height="458" alt="Screenshot From 2026-03-01 14-41-44" src="https://github.com/user-attachments/assets/7ab6e084-fa54-48f1-8b17-627b1b174495" />  
 Using comand "cat solved" I could see the hash and the solution in plain text, which was disobey:  
