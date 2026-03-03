@@ -16,7 +16,16 @@ Used as a “fingerprint” of data.
 Easy to compute hash, hard to reverse it.    
 Hard to find two different inputs with the same hash (collision).  
 
-## a)
+## a)  
+I installed haschat, you can see the latest version active in the screenshot below:  
+<img width="744" height="479" alt="Screenshot From 2026-03-03 14-52-29" src="https://github.com/user-attachments/assets/48da38b6-d6d9-43cf-8ac8-80195b819b74" />    
+I ran hashcat --benchmark to test that Hashcat works correctly. The benchmark measured hashing performance in hashes per second.    
+<img width="744" height="479" alt="Screenshot From 2026-03-03 14-53-12" src="https://github.com/user-attachments/assets/df86c597-aac0-4f3e-902e-6a45d68bb8a9" />  
+I generated a sample hash using the MD5 algorithm by running echo -n 'example123' | md5sum in the terminal.  
+<img width="744" height="65" alt="Screenshot From 2026-03-03 14-54-59" src="https://github.com/user-attachments/assets/136d18c1-84ee-49d1-9a16-579574389d26" />  
+
+
+
 
 ## b)  
 First I updated packages.  
