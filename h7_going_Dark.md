@@ -39,7 +39,7 @@ It allows users to buy and sell goods anonymously. Users have to create ans acco
 <img width="1404" height="734" alt="Screenshot From 2026-03-10 09-19-56" src="https://github.com/user-attachments/assets/aa326cf5-d527-4ee8-8ccf-3971ac08c147" />  
 <img width="1386" height="374" alt="Screenshot From 2026-03-10 09-20-10" src="https://github.com/user-attachments/assets/6bfb1a54-1e31-4862-a875-cbc3daf0c70c" />  
 
-The screenshot below shows Dread, a discussion forum accessible trhough Tor. THe Forum allowws users to post messages and discuss topics related to privace, technology and services available on Tor. Forums like Dread are commonly used in the Tor network for community discussions and exchanging knowledge about different hidden services.  
+The screenshot below shows Dread, a discussion forum accessible through Tor. The Forum allowws users to post messages and discuss topics related to privace, technology and services available on Tor. Forums like Dread are commonly used in the Tor network for community discussions and exchanging knowledge about different hidden services.  
 <img width="1410" height="782" alt="Screenshot From 2026-03-10 08-24-00" src="https://github.com/user-attachments/assets/aeb84669-61b6-48ad-84aa-86036236ec8f" />  
 
 I was able to access the onion site of the CIA. The organization provides an onion version of its website so users can access information through the Tor network with increased privacy. Offering an onion site allows people in countries with censorship or heavy surveillance reach the website more securely.  
